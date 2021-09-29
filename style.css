@@ -1,0 +1,17 @@
+body{
+    background-image: url(bg.jpg);
+    
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+#joke{
+    background-color: white;
+    display: inline-flex;
+    font-size: 22px;
+    margin: auto 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
